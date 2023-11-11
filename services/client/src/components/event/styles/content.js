@@ -22,6 +22,7 @@ export default css`
     font-size: 0.75rem;
     color: #81878c;
     margin-bottom: 0.5rem;
+    padding-top: 5px;
   }
 
   .event-details span {
