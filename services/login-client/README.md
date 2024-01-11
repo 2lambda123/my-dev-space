@@ -79,7 +79,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [Offline-First Considerations](#offline-first-considerations)
   - [Progressive Web App Metadata](#progressive-web-app-metadata)
 - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-- [Deployment](#deployment)
+- [Deployment
+- Ensure that GitHub Pages is set to use the "gh-pages" branch in the project settings.](#deployment)
   - [Static Server](#static-server)
   - [Other Solutions](#other-solutions)
   - [Serving Apps with Client-Side Routing](#serving-apps-with-client-side-routing)
