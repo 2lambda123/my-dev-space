@@ -21,7 +21,7 @@ itsdangerous = "*"
 [dev-packages]
 black = "==18.6b2"
 Flask-Testing = "==0.7.1"
-ipython = "==7.2.0"
+ipython = "==8.10.0"
 pytest = "==4.1.1"
 pytest-cov = "==2.6.1"
 pytest-flakes = "==4.0.0"
